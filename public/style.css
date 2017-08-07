@@ -1,0 +1,38 @@
+body{
+  margin: 0 25px;
+  font-family: 'Indie Flower', cursive;
+  font-weight: bolder;
+  display: flex;
+  flex-direction: column;
+}
+
+.inputbox{
+  width:300px;
+  height: 25px;
+  font-family: 'Indie Flower', cursive;
+  font-size: 16px;
+}
+
+button{
+  height: 30px;
+  background: red;
+  font-family: 'Indie Flower', cursive;
+  font-size: 16px;
+}
+
+li{
+  list-style: none;
+}
+
+ul{
+  display: flex;
+  flex-direction: column;
+}
+
+.xButton{
+  width: 25px;
+}
+
+span{
+  float: left;
+}
